@@ -1,0 +1,16 @@
+<?php
+	echo $q=$_GET['q'];
+//	$my_data=mysql_real_escape_string($q);
+//	$mysqli=mysqli_connect('localhost','root','','') or die("Database Error");
+//                mysql_select_db('my_test_db');
+//	$sql="SELECT name FROM tag WHERE name LIKE '%$my_data%' ORDER BY name";
+//	$result = mysqli_query($mysqli,$sql) or die(mysqli_error());
+//	
+//	if($result)
+//	{
+//		while($row=mysqli_fetch_array($result))
+//		{
+//			echo $row['name']."\n";
+//		}
+//	}
+?>
